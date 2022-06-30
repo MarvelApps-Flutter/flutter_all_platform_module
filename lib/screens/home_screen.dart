@@ -18,23 +18,13 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Colors.white,
+        leading: const Icon(Icons.menu, color: Colors.grey,),
         title: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Icon(Icons.menu, color: Colors.grey,),
-            Container(
-              height: 25,
-              width: 25,
-              decoration: BoxDecoration(
-                image: DecorationImage(
-                  image: AssetImage("assets/images/search.png")
-                )
-              ),
-            ),
-
-            //Icon(Icons.search, color: Colors.grey,),
-            Icon(Icons.message_outlined, color: Colors.grey,),
-            Icon(Icons.notifications_none, color: Colors.grey,)
+          children: const [
+            Expanded(child: Icon(Icons.search, color: Colors.grey,)),
+            Expanded(child: Icon(Icons.message_outlined, color: Colors.grey,)),
+            Expanded(child: Icon(Icons.notifications_none, color: Colors.grey,))
           ],
         )
       ),
@@ -43,11 +33,11 @@ class _HomeScreenState extends State<HomeScreen> {
         child: SingleChildScrollView(
           child: Column(
             children: <Widget>[
-              Padding(
-                padding: const EdgeInsets.all(8.0),
+              const Padding(
+                padding: EdgeInsets.all(8.0),
                 child: Align(
                   alignment: Alignment.topLeft,
-                  child: const Text(
+                  child: Text(
                     'Released',
                     style: TextStyle(fontSize: 21,fontWeight: FontWeight.bold),
                   ),
