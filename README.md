@@ -2,6 +2,9 @@
 
 A new Flutter app for demonstrating Flutter all platform app.
 
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/dev/screenshots/gif/demo.gif" height="480px"></td>
+
 # Android Screenshot
 
 <table>
