@@ -2,11 +2,14 @@
 
 A new Flutter app for demonstrating Flutter all platform app.
 
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/master/screenshots/gif/demo.gif" height="480px"></td>
+
 # Android Screenshot
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/dev/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/master/screenshots/android/android1.png" height="480px"></td>
   </tr>
  </table>
 </br>
@@ -15,7 +18,7 @@ A new Flutter app for demonstrating Flutter all platform app.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/dev/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/master/screenshots/ios/ios1.png" height="480px"></td>
   </tr>
  </table>
  
@@ -23,7 +26,7 @@ A new Flutter app for demonstrating Flutter all platform app.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/dev/screenshots/web/web.png" height="1000px" width="1000px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/master/screenshots/web/web.png" height="650px" width="850px"></td>
   </tr>
  </table>
  
@@ -31,7 +34,7 @@ A new Flutter app for demonstrating Flutter all platform app.
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/dev/screenshots/windows/desktop.png" height="1000px" width="1000px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_all_platform_module/blob/master/screenshots/windows/desktop.png" height="650px" width="850px"></td>
   </tr>
  </table>
  
